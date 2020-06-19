@@ -104,7 +104,12 @@ projects:
   title: Projects
   intro: |
     This is all the projects I'm involved in.
+
   items:
+    - name: Foo
+      link: https://www.google.com
+      details: |
+        Project Foo's detail, you can write markdown format text.
 
 
 publications:
