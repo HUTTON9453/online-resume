@@ -48,50 +48,36 @@ education:
       major: Machine learning
       degree: Master
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
     - university: Chang Gung University
       time: 2015 - 2018
       major: Computer Science
       degree: Bachelor
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Front-end Developer
+      time: 2019.01 - 2019.05
+      company: 長庚大學生物資訊實驗室
       tag:
-      location: Beijing
+      location: Taoyuan
       details: |
         Experience in this company:
-        + First
-        + Second
+        + 負責台塑A8關懷服務系統(Web)
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Intern
+      time: 2018.07 - 2018.09
+      company: 遵宇科技股份有限公司
+      tag: 
+      location: Taipei
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
+        + 負責東明護理之家照護系統(Android)
+        + 負責中國南京湯山醫院智慧病房系統(Android)
+        + 負責中國南京總醫院架設資料庫共享平台(Web)
 
 projects:
   display: true
@@ -131,10 +117,11 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
+    + Programming language in general: C/C++, Python
+    + Programming language about Web development: PHP, Javascript, Html
+    + Programming language about APP development: Java
+    + Database: Mysql, MongoDB, SQLite
 
-    ...
 
 evaluation:
   display: false
