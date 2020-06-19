@@ -60,7 +60,7 @@ experiences:
   title: Experiences
   items:
     - role: Intern
-      time: 2020.05 - 2020.09
+      time: 2020.05 -
       company: 奈捷生物科技
       tag:
       location: Taipei
@@ -106,40 +106,7 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: 胰腺炎資料庫共享平台
-      link: 
-      details: |
-        Project Bar's detail, you can write markdown format text.
-        
-    - name: 東明護理之家照護系統
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-        
-    - name: 台塑A8關懷服務系統
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-     
-     - name: 護理系網頁
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-     
-     - name: 湯山醫院智慧病房系統
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-        
-     - name: 健康運動小助手
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-     
-     - name: 外科微創受術人工智慧輔助系統
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+
 
 publications:
   display: false
