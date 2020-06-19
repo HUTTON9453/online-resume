@@ -100,7 +100,7 @@ experiences:
         + 負責中國南京總醫院架設胰腺炎資料庫共享平台(Web)
 
 projects:
-  display: false
+  display: true
   title: Projects
   intro: |
     This is all the projects I'm involved in.
