@@ -8,7 +8,7 @@ intro:
 contact:
   email: pa40103@gmail.com
   phone: +886 988 713 327
-  website: example.com
+  website: https://hutton9453.github.io/online-resume/
   github: HUTTON9453
 
 languages:
@@ -59,14 +59,34 @@ experiences:
   display: true
   title: Experiences
   items:
+    - role: Intern
+      time: 2020.05 - 
+      company: 奈捷生物科技
+      tag:
+      location: Taipei
+      details: |
+        Experience in this company:
+        + 開發毒品檢測儀(Firmware)
+  
     - role: Front-end Developer
-      time: 2019.01 - 2019.05
+      time: 2017.07 - 2019.05
       company: 長庚大學生物資訊實驗室
       tag:
       location: Taoyuan
       details: |
         Experience in this company:
+        + 開發健康運動小助手-運動交友APP(Android)
+        + 建構外科微創受術人工智慧輔助系統(Model)
         + 負責台塑A8關懷服務系統(Web)
+
+    - role: Front-end Developer
+      time: 2018.01 - 2018.12
+      company: 長庚大學護理系
+      tag:
+      location: Taoyuan
+      details: |
+        Experience in this company:
+        + 協助其科技部計畫所需要的網頁(Web)
 
     - role: Intern
       time: 2018.07 - 2018.09
@@ -75,9 +95,9 @@ experiences:
       location: Taipei
       details: |
         Experience in this company:
-        + 負責東明護理之家照護系統(Android)
+        + 負責東明護理之家照護系統(Web)
         + 負責中國南京湯山醫院智慧病房系統(Android)
-        + 負責中國南京總醫院架設資料庫共享平台(Web)
+        + 負責中國南京總醫院架設胰腺炎資料庫共享平台(Web)
 
 projects:
   display: true
@@ -86,12 +106,37 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: 胰腺炎資料庫共享平台
+      link: 
       details: |
-        Project Foo's detail, you can write markdown format text.
+        APWeb.png
 
-    - name: Bar
+    - name: 東明護理之家照護系統
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
+        
+    - name: 台塑A8關懷服務系統
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
+     
+     - name: 護理系網頁
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
+     
+     - name: 湯山醫院智慧病房系統
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
+        
+     - name: 健康運動小助手
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
+     
+     - name: 外科微創受術人工智慧輔助系統
       link:
       details: |
         Project Bar's detail, you can write markdown format text.
