@@ -58,14 +58,15 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Intern
-      time: 2020.05 -
+    - role: piecework
+      time: 2020.05 - 2020.08
       company: 奈捷生物科技
       tag:
       location: Taipei
       details: |
         Experience in this company:
         + 開發毒品檢測儀(Firmware)
+        + 使用 BeagleBone Black, 連接各硬體及開發ＵＩ
   
     - role: Front-end Developer
       time: 2017.07 - 2019.05
