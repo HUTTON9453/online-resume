@@ -58,8 +58,8 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: piecework
-      time: 2020.05 - 2020.08
+    - role: Full stack
+      time: 2020.05 - present
       company: 奈捷生物科技
       tag:
       location: Taipei
@@ -67,6 +67,7 @@ experiences:
         Experience in this company:
         + 開發毒品檢測儀(Firmware)
         + 使用 BeagleBone Black, 連接各硬體及開發ＵＩ
+   
   
     - role: Front-end Developer
       time: 2017.07 - 2019.05
@@ -86,18 +87,19 @@ experiences:
       location: Taoyuan
       details: |
         Experience in this company:
-        + 協助其科技部計畫所需要的網頁(Web)
+        + Developed a questionnaire system for docters and patients.
+And visualized some statistical plots for reference.(Web)
 
     - role: Intern
       time: 2018.07 - 2018.09
-      company: 遵宇科技股份有限公司
+      company: TOUCHLIFE TECHNOLOGY CO., LTD.
       tag: 
       location: Taipei
       details: |
         Experience in this company:
-        + 負責東明護理之家照護系統(Web)
-        + 負責中國南京湯山醫院智慧病房系統(Android)
-        + 負責中國南京總醫院架設胰腺炎資料庫共享平台(Web)
+        + Developed the website of  health care system in Tung Ming Nursing Home. (Web)
+        + Developed  the Intelligent Nurse Stations in  Nanjing General Hospital. (Android)
+        + Developed the open-source Platform of Acute Pancreatitis in  Nanjing General Hospital. (Web)
 
 projects:
   display: false
