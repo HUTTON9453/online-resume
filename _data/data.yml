@@ -43,7 +43,7 @@ education:
   title: Education
   items:
     - university: National Taiwan University
-      time: 2019 -
+      time: 2019 - 2022
       major: Machine learning
       degree: Master
       details: |
@@ -65,20 +65,21 @@ experiences:
       location: Taipei
       details: |
         Experience in this company:
-        + 開發毒品檢測儀(Firmware)
-        + 使用 BeagleBone Black, 連接各硬體及開發ＵＩ
+        + Developed GUI system and connect some external devices, such as printer, camera, barcode scanner and LCD screen based on Beagle bone black. 開發毒品檢測儀(Firmware)
+        + Developed Next-Generation Sequencing Website (React, postgreSQL, docker)
+        + Developed autotune PID control system (python, raspberrypi 4 B+)
    
   
     - role: Front-end Developer
       time: 2017.07 - 2019.05
-      company: 長庚大學生物資訊實驗室
+      company: Bio-information lab on Chang Gung University(長庚大學生物資訊實驗室)
       tag:
       location: Taoyuan
       details: |
         Experience in this company:
-        + 開發健康運動小助手-運動交友APP(Android)
-        + 建構外科微創受術人工智慧輔助系統(Model)
-        + 負責台塑A8關懷服務系統(Web)
+        + Developed a social and sport app(開發健康運動小助手-運動交友APP)(Android, java, mysql)
+        + Developed a artificial intelligence application in minimally invasive surgery 建構外科微創手術人工智慧輔助系統(Model, tensorflow)
+        + Developed healthcare system for Formosa Plastics A8 負責台塑A8關懷服務系統(Web, php, jQuery, mysql)
 
     - role: Front-end Developer
       time: 2018.01 - 2018.12
@@ -88,7 +89,7 @@ experiences:
       details: |
         Experience in this company:
         + Developed a questionnaire system for docters and patients.
-        + And visualized some statistical plots for reference.(Web)
+        + And visualized some statistical plots for reference.(Web, php, jQuery, mysql)
 
     - role: Intern
       time: 2018.07 - 2018.09
@@ -97,9 +98,9 @@ experiences:
       location: Taipei
       details: |
         Experience in this company:
-        + Developed the website of  health care system in Tung Ming Nursing Home. (Web)
-        + Developed  the Intelligent Nurse Stations in  Nanjing General Hospital. (Android)
-        + Developed the open-source Platform of Acute Pancreatitis in  Nanjing General Hospital. (Web)
+        + Developed the website of  health care system in Tung Ming Nursing Home. (Web, php, jquery, mysql)
+        + Developed  the Intelligent Nurse Stations in  Nanjing General Hospital. (Android, bluetooth, mysql)
+        + Developed the open-source Platform of Acute Pancreatitis in  Nanjing General Hospital. (Web, php, jQuery, Microsoft SQL Server)
 
 projects:
   display: false
@@ -136,6 +137,7 @@ skills:
   details: |
     Here is my skills:
     + Programming language in general: C/C++, Python
+    + Programming language about machine learning development: pytorch
     + Programming language about Web development: PHP, Javascript, Html
     + Programming language about APP development: Java
     + Database: Mysql, MongoDB, SQLite
