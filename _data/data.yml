@@ -137,10 +137,10 @@ skills:
   details: |
     Here is my skills:
     + Programming language in general: C/C++, Python
-    + Programming language about machine learning development: pytorch
-    + Programming language about Web development: PHP, Javascript, Html
+    + Programming language about machine learning development: pytorch, tensorflow
+    + Programming language about Web development: PHP, Javascript, Html, React, NestJS, JQuery
     + Programming language about APP development: Java
-    + Database: Mysql, MongoDB, SQLite
+    + Database: Mysql, 長庚大學護理系, MongoDB, SQLite
 
 
 evaluation:
