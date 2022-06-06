@@ -60,30 +60,30 @@ experiences:
   items:
     - role: Full stack
       time: 2020.05 - present
-      company: 奈捷生物科技
+      company: Instant NanoBiosensors Co., Ltd
       tag:
       location: Taipei
       details: |
         Experience in this company:
-        + Developed GUI system and connect some external devices, such as printer, camera, barcode scanner and LCD screen based on Beagle bone black. 開發毒品檢測儀(Firmware)
+        + Developed GUI system and connect some external devices, such as printer, camera, barcode scanner and LCD screen based on Beagle bone black. (Linux, python, sqlite)
         + Developed Next-Generation Sequencing Website (React, postgreSQL, docker)
         + Developed autotune PID control system (python, raspberrypi 4 B+)
    
   
     - role: Front-end Developer
       time: 2017.07 - 2019.05
-      company: Bio-information lab on Chang Gung University(長庚大學生物資訊實驗室)
+      company: Bio-information lab on Chang Gung University (長庚大學生物資訊實驗室)
       tag:
       location: Taoyuan
       details: |
         Experience in this company:
         + Developed a social and sport app(開發健康運動小助手-運動交友APP)(Android, java, mysql)
-        + Developed a artificial intelligence application in minimally invasive surgery 建構外科微創手術人工智慧輔助系統(Model, tensorflow)
+        + Developed a artificial intelligence application in minimally invasive surgery 建構外科微創手術人工智慧輔助系統(Fast RCNN Model, tensorflow)
         + Developed healthcare system for Formosa Plastics A8 負責台塑A8關懷服務系統(Web, php, jQuery, mysql)
 
     - role: Front-end Developer
       time: 2018.01 - 2018.12
-      company: 長庚大學護理系
+      company: School of nursing on Chang Gung University (長庚大學護理系)
       tag:
       location: Taoyuan
       details: |
