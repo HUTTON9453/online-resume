@@ -116,7 +116,7 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
+   I'm involved in.
 
   items:
     - name: Master Thesis; Improving Clustering Uncertainty-weighted Embeddings for Active Domain Adaptation
