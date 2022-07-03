@@ -58,7 +58,7 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Full stack
+    - role: Software Engineer
       time: 2020.05 - 2022.05
       company: Instant NanoBiosensors Co., Ltd
       tag:
@@ -69,8 +69,18 @@ experiences:
         + Developed Next-Generation Sequencing Website (React, postgreSQL, docker)
         + Developed autotune PID control system (python, raspberrypi 4 B+)
    
+    - role: Full-stack Developer / Internship
+      time: 2020.07 - 2020.09
+      company: National Taiwan University Course OnLine
+      tag:
+      location: Taipei
+      details: |
+        Experience in this company:
+        + Developed new functionality for creating online courses with Canvas Learning Management System.
+        + Familiar with React and NestJS.
   
-    - role: Front-end Developer
+  
+    - role: Research Assistant
       time: 2017.07 - 2019.05
       company: Bio-information lab on Chang Gung University (長庚大學生物資訊實驗室)
       tag:
@@ -91,7 +101,7 @@ experiences:
         + Developed a questionnaire system for docters and patients.
         + And visualized some statistical plots for reference.(Web, php, jQuery, mysql)
 
-    - role: Intern
+    - role: Software Engineer / Internship
       time: 2018.07 - 2018.09
       company: TOUCHLIFE TECHNOLOGY CO., LTD.
       tag: 
@@ -103,16 +113,19 @@ experiences:
         + Developed the open-source Platform of Acute Pancreatitis in  Nanjing General Hospital. (Web, php, jQuery, Microsoft SQL Server)
 
 projects:
-  display: false
+  display: true
   title: Projects
   intro: |
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Master Thesis: Improving Clustering Uncertainty-weighted Embeddings for Active Domain Adaptation
+      link: https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05392020%22.&searchmode=basic
       details: |
-        Project Foo's detail, you can write markdown format text.
+        + Proposed a loop threshold method to improve Clustering Uncertainty-weighted Embeddings.
+        + Proposed an Active Domain Adaptation framework which explains the quality of uncertainty is important and compare different active learning methods.
+        + Benchmark the performance of state-of-the-art methods for active learning on three different domain shift, and find that methods based on uncertainty are not reliable in the early stage for Active Domain Adaptation.
+        + Show the effectiveness of our method for 3 datasets, namely, SVHN→MNIST, DomainNet, and Office-31.
 
 
 publications:
@@ -140,7 +153,7 @@ skills:
     + Programming language about machine learning development: pytorch, tensorflow
     + Programming language about Web development: PHP, Javascript, Html, React, NestJS, JQuery
     + Programming language about APP development: Java
-    + Database: Mysql, 長庚大學護理系, MongoDB, SQLite
+    + Database: Mysql, MongoDB, SQLite
 
 
 evaluation:
