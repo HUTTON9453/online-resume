@@ -131,9 +131,6 @@ projects:
 publications:
   display: false
   title: Publications
-  intro: |
-    This is all the books I wrote.
-
   items:
     - title: Foo in Action
       authors: Foo Bar
