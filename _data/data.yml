@@ -122,7 +122,10 @@ projects:
     - name: Master Thesis: Improving Clustering Uncertainty-weighted Embeddings for Active Domain Adaptation
       link: https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05392020%22.&searchmode=basic
       details: |
-        test
+        + Proposed a loop threshold method to improve Clustering Uncertainty-weighted Embeddings.
+        + Proposed an Active Domain Adaptation framework which explains the quality of uncertainty is important and compare different active learning methods.
+        + Benchmark the performance of state-of-the-art methods for active learning on three different domain shift, and find that methods based on uncertainty are not reliable in the early stage for Active Domain Adaptation.
+        + Show the effectiveness of our method for 3 datasets, namely, SVHN→MNIST, DomainNet, and Office-31.
 
 
 publications:
