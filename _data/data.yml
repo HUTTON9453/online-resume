@@ -75,19 +75,6 @@ experiences:
         + Guided and mentored an intern, contributing and enabling AI models on ExecuTorch QNN backend.
         + Contributed to the QNN Execution Provider for ONNX Runtime, enhancing its performance. 
         + Familiar with Qualcomm AI Engine Direct SDK (QNN SDK), with extensive experience deploying and optimizing AI models on Qualcomm platforms
-    role: Senior Software Engineer
-      time: 2022.08 - Present
-      company: Qualcomm
-      tag:
-      location: Hsinchu
-      details: |
-        Experience in this company:
-        + Developed and optimized a Tflite Delegate on Qualcomm AI Stack, achieving high scores in AI benchmarks like AIB 5 and GeekBench 6. 
-        + Co-authored and developed the ExecuTorch QNN backend. Led a project that enabled LLM models with ExecuTorch QNN backend to run on Qualcomm devices. 
-        + Guided and mentored an intern, contributing and enabling AI models on ExecuTorch QNN backend.
-        + Contributed to the QNN Execution Provider for ONNX Runtime, enhancing its performance. 
-        + Familiar with Qualcomm AI Engine Direct SDK (QNN SDK), with extensive experience deploying and optimizing AI models on Qualcomm platforms
-
     - role: Software Engineer
       time: 2020.05 - 2022.05
       company: Instant NanoBiosensors Co., Ltd
