@@ -1,6 +1,6 @@
 intro:
   name: Sheng-Feng Wu
-  title: Software Engineer
+  title: Senior Software Engineer
   avatar:
     display: true
     path: profile.png
@@ -29,14 +29,19 @@ interests:
       link:
 
 profile:
-  display: false
+  display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    Have an interest in software development
 
-    ...
+    Senior Software Engineer @ Qualcomm
+    Core work: Maintain and develop QNN backend on various machine learning framework in the Qualcomm AI stack.
+    
+    Software Engineer @ InstantNano Biosensors Company
+    Core work: Develop the software and website for Next-Generation Sequencing.
+    
+    MS in Computer Science and Information Engineering @ NTU.
+    Research Area: Machine Learning, Domain Adaptation.
 
 education:
   display: true
@@ -58,6 +63,31 @@ experiences:
   display: true
   title: Experiences
   items:
+    - role: Senior Software Engineer
+      time: 2022.08 - Present
+      company: Qualcomm
+      tag:
+      location: Hsinchu
+      details: |
+        Experience in this company:
+        + Developed and optimized a Tflite Delegate on Qualcomm AI Stack, achieving high scores in AI benchmarks like AIB 5 and GeekBench 6. 
+        + Co-authored and developed the ExecuTorch QNN backend. Led a project that enabled LLM models with ExecuTorch QNN backend to run on Qualcomm devices. 
+        + Guided and mentored an intern, contributing and enabling AI models on ExecuTorch QNN backend.
+        + Contributed to the QNN Execution Provider for ONNX Runtime, enhancing its performance. 
+        + Familiar with Qualcomm AI Engine Direct SDK (QNN SDK), with extensive experience deploying and optimizing AI models on Qualcomm platforms
+    role: Senior Software Engineer
+      time: 2022.08 - Present
+      company: Qualcomm
+      tag:
+      location: Hsinchu
+      details: |
+        Experience in this company:
+        + Developed and optimized a Tflite Delegate on Qualcomm AI Stack, achieving high scores in AI benchmarks like AIB 5 and GeekBench 6. 
+        + Co-authored and developed the ExecuTorch QNN backend. Led a project that enabled LLM models with ExecuTorch QNN backend to run on Qualcomm devices. 
+        + Guided and mentored an intern, contributing and enabling AI models on ExecuTorch QNN backend.
+        + Contributed to the QNN Execution Provider for ONNX Runtime, enhancing its performance. 
+        + Familiar with Qualcomm AI Engine Direct SDK (QNN SDK), with extensive experience deploying and optimizing AI models on Qualcomm platforms
+
     - role: Software Engineer
       time: 2020.05 - 2022.05
       company: Instant NanoBiosensors Co., Ltd
@@ -98,7 +128,7 @@ experiences:
       location: Taoyuan
       details: |
         Experience in this company:
-        + Developed a questionnaire system for docters and patients.
+        + Developed a questionnaire system for doctors and patients.
         + And visualized some statistical plots for reference.(Web, php, jQuery, mysql)
 
     - role: Software Engineer / Internship
